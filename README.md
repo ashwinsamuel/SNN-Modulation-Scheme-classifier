@@ -1,2 +1,2 @@
 # SNN-Modulation-Scheme-classifier
-SNN Modulation classifier
+This is a repo for Radio signal modulation scheme classifier between 2 modulation schemes: 32PSK and 16APSK
